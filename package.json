@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cdnicoll/node_card_games/issues"
   },
-  "homepage": "https://github.com/cdnicoll/node_card_games#readme"
+  "homepage": "https://github.com/cdnicoll/node_card_games#readme",
+  "dependencies": {
+    "@cdnicoll/cards": "^1.0.*"
+  }
 }
