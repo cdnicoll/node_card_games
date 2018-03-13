@@ -19,6 +19,6 @@ deck.add(card2);
 //#region demo2
 var standardDeck = new cards.StandardDeck();
 console.log(standardDeck);
-standardDeck.shuffleAll();
-console.log(standardDeck);
+//standardDeck.shuffleAll();
+//console.log(standardDeck);
 //#endregion
